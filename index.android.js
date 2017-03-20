@@ -6,6 +6,7 @@ import Tutorial from './src/containers/Tutorial'
 
 AppRegistry.registerComponent('tourismapp', () => Tutorial)
 
+
 // AppRegistry.registerComponent('Tutorial', () => Tutorial)
 // 注册的模块名 'Tutorial', 对应拦截器中moduleName
 
